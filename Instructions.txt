@@ -1,0 +1,21 @@
+Everything on client side appears on window created for specific user.
+
+Client name is displayed on the top of window.
+
+Names and Team bids are asked in a separate input window.
+
+Client names should be unique. Server won't accept duplicate client names.
+
+Team bid of a team cannot exceed 13. Bid of a client can be judged by user according to bid of team member displayed dynamically on window of client.
+
+Team Bids, Tricks Won, Score, Running Card, Running cards in specific trick are dynamically displayed on window.
+
+Plyers's turn i.e. who is playing is displayed in the bottom of window.
+
+If Running shows "-", it means this is start of trick. Else it will show running card in a trick.
+
+If bottom of the window shows, Please select valid card then look for running card and play accordingly.
+
+Everything else on window should be clear.
+
+When Server is closed, it's time to close windows.
